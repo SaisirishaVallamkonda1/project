@@ -1,2 +1,2 @@
 # project
-project repo
+project repository for shopping website
